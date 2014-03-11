@@ -1,0 +1,8 @@
+name: Freezer
+version: 1.0.0
+author: damo1995
+main: uk.co.ddelay.freezer.Freezer
+commands:
+   freeze:
+       description: 'Freeze a selected player'
+       usage: /freeze [player]

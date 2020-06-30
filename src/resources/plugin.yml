@@ -1,6 +1,7 @@
 name: Freezer
 version: 1.0.0
-author: damo1995
+author: damo1995]
+api-version: 1.13.0
 main: uk.co.ddelay.freezer.Freezer
 commands:
    freeze:
